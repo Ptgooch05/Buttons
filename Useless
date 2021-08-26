@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Useless Buttons</title>
+    <link href="https://fonts.googleapis.com/css2?family=Stalinist+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Russo+One&display=swap" rel="stylesheet">
+    <style>
+      .align-center   {
+        text-align: center;
+        text-transform: capitalize;
+        text-shadow: 5px 5px gray;
+        font-size: 40px;
+        font-style: oblique;
+        display: inline-block;
+        font-family: 'Stalinist One', cursive;
+        margin: 5px;
+        Padding: 10px 10px;
+      }
+      a {
+        text-shadow: 5px 5px dimgrey;
+        font-family: 'Russo One', sans-serif;
+        background-color: black;
+        border: 5px solid red;
+        color: red;
+        text-align: center;
+        text-decoration:none;
+        display: Inline-block;
+        font-size: 16px;
+        margin: 5px;
+        padding: 10px 10px;
+      }
+      a:hover {
+        text-shadow: 5px 5px darkred;
+        font-family: 'Russo One', sans-serif;
+        background-color: red;
+        color: black;
+        border: 5px solid black;
+        text-align: center;
+        text-decoration:none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 5px;
+      }
+      div {
+        width:1010px;
+      }
+    </style>
+  
+  </head>
+  <body style="background-color: darkred">
+
+    <h1 class="align-center">These Buttons Lead to Random Websites</h1>
+      <div>
+      <a href="https://vole.wtf/perfect-circle/">Perfect Button</a>
+      <a href="https://theuselessweb.site/ducksarethebest.com/">Crazy Button</a>
+      <a href="https://ninjaflex.com/">Strong button</a>
+      <a href="http://nooooooooooooooo.com/">Button Button</a>
+      <a href="http://www.electricboogiewoogie.com/">Wacky Button</a>
+      <a href="http://www.patience-is-a-virtue.org/">Patient  Button</a>
+      <a href="http://procatinator.com/">Pun Button</a>
+      <a href="https://theuselessweb.site/randomcolour.com/">Color Button</a>
+      <a href="https://cant-not-tweet-this.com/">Un-untweetable Button</a>
+      <a href="https://isitchristmas.com/">Festive Button</a>
+      <a href="http://www.trashloop.com/">Anti Trash Button</a>
+      <a href="http://papertoilet.com/">Toilet paper Button</a>
+      <a href="https://heeeeeeeey.com/">Greatings Button</a>
+      <a href="http://www.clicktoremove.com/">Removing Button</a>
+      <a href="http://www.ismycomputeron.com/">Checking Button</a>
+      <a href="http://iamawesome.com/">Motivational Button</a>
+      <a href="https://fallingguy.com/">Falling Button</a>
+      <a href="https://ffffidget.com/">Fidget Button</a>
+      <a href="https://crouton.net/">Croton Button</a>
+      <a href="http://imaninja.net/">Revealing Button</a>
+      <a href="http://faceofdisapproval.com/">Disaproving Button</a>
+      <a href="https://thequietplaceproject.xyz/">Quiet Button</a>
+      <a href="https://theuselessweb.site/spaceis.cool/">Orbital Button</a>
+      <a href="https://theuselessweb.site/something/">A Thing Button</a>
+      <a href="https://theuselessweb.site/popcornpainting/">Popping Button</a>
+      <a href="https://theuselessweb.site/thispeanutlookslikeaduck/">Duck Button</a>
+      <a href="https://theuselessweb.site/purple/">Purple Button</a>
+      <a href="https://theuselessweb.site/exactcenteroftheinternet/">Center Button</a>
+      <a href="https://theuselessweb.site/pixelsfighting/">Pixle Button</a>
+      <a href="https://theuselessweb.site/wafflecat/">Waffle Button</a>
+      <a href="https://theuselessweb.site/coloursquares/">Square Buttons Button</a>
+      <a href="https://theuselessweb.site/imaninja/">Ninja Button</a>
+      <a href="https://theuselessweb.site/tothewater/">Water Button</a>
+      <a href="https://theuselessweb.site/minionstranslator/">Minionese Translator Button</a>
+      <a href="https://theuselessweb.site/niceonedad/">Dad Button</a>
+      <a href="https://theuselessweb.site/whatdoineed/">Money Button</a>
+      <a href="https://theuselessweb.site/wwwdotcom/">The last Page Button</a>
+      <a href="https://theuselessweb.site/dottedlines/">Doted Button</a>
+      <a href="https://theuselessweb.site/solitaire/">Gambit Button</a>
+      <a href="https://theuselessweb.site/youareanidiot/idiot/index.html">Truth Button</a>
+      <a href="https://theuselessweb.site/hereistoday/">Time Button</a>
+      <a href="https://theuselessweb.site/nootnoot/">Noot Button</a>
+      <a href="https://theuselessweb.site/sealspin/">Spin Button</a>
+      <a href="https://theuselessweb.site/instantostrich/">Laughing Button</a>
+      <a href="https://theuselessweb.site/plspetdoge/">Doge Button</a>
+      <a href="https://theuselessweb.site/8bitdance/">Woot Button</a>
+      <a href="https://coronavirus-ninja.com/">Covid-19 Button</a>
+      <a href="https://theuselessweb.site/retrolamp/">Lava Lamp Button</a>
+      <a href="https://theuselessweb.site/dumbcalculator/">Dumb Button</a>
+      <a href="https://theuselessweb.site/isittimeforanap/">Nap Time Button</a>
+      <a href="https://theuselessweb.site/tacospin/">Taco Button</a>
+      
+      
+      <a herf="https://www.spaceflightinsider.com/editorial/what-did-opportunitys-last-words-actually-mean/">!!ERROR!!</a>
+      
+      
+      <a href="https://theuselessweb.site/pleasewait/">Wait Button</a>
+      <a href="https://theuselessweb.site/exotic-butters/">Butter Button</a>
+      <a href="https://theuselessweb.site/uppertolowercase/">Usefull Button</a>
+      <a href="https://theuselessweb.site/pleasetouchme/">Hand Button</a>
+      <a href="https://theuselessweb.site/leglesslegolegolas/">Legolas Button</a>
+      <a href="https://theuselessweb.site/howbigismypotato/">Potato Button</a>
+      <a href="http://ihasabucket.com/">Bucket Button</a>
+      <a href="https://bouncingdvdlogo.com/">DVD Button</a>
+      <a href="https://procatinator.com/">Look Button</a>
+      <a href="http://www.slightlyinteresting.com/plasmaglobe/plasma.asp">Wow Button</a>
+      <a href="https://www.whatsmystarbucksname.com/">Starbucks Button</a>
+      <a href="http://intotime.com/">Time Button</a>
+      <a href="http://beesbeesbees.com/">Bee Button</a>
+      <a href="https://en.wikipedia.org/wiki/List_of_individual_dogs">Good Bois Button</a>
+      <a href="https://apod.nasa.gov/apod/astropix.html">Space Button</a>
+      
+      
+      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">The Best Button</a>
+      
+      
+      <a href="chrome://chrome-urls/">!!ERROR!!</a>
+      
+      
+      <a href="http://www.heeeeeeeey.com/">Changing Button</a>
+      <a href="https://www.dafont.com/">Font Button</a>
+      <a href="https://snes.party/">SNES Button</a>
+      
+      
+      <a herf="https://libraryofbabel.info/">!!ERROR!!</a>
+      
+      
+      <a href="https://onefishstudio.net/ucg">Cat Button</a>
+      <a href="https://longdogechallenge.com/">Long Doge Button</a>
+      <a href="https://mondrianandme.com/">Modern Art Button</a>
+      
+    </div>
+  </body>
+</html>
